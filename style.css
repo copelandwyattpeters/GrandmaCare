@@ -11,13 +11,15 @@ li{
     margin-right: 20px;
 }
 
-.week1 {
+.week {
     display: flex; 
     flex: 1 1 auto;
     flex-direction: row;
     justify-content: space-around;
     flex-flow: row wrap;
     align-items: stretch;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
 .date {
@@ -26,7 +28,7 @@ li{
     border-style: solid;
     border-width: 2px 1px 2px 1px;
     background-color: bisque;
-    min-height: 150px;
+    min-height: 200px;
 }
 .end {
     margin-right: 0px;
