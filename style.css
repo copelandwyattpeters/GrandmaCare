@@ -7,6 +7,10 @@ body{
     font-family: aFont;
 }
 
+h1{
+    text-align: center;
+}
+
 .week {
     display: flex; 
     flex: 1 1 auto;
