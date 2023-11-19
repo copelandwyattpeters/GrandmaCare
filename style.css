@@ -1,3 +1,12 @@
+@font-face{
+    font-family: aFont;
+    src: url(./Fonts/Bevan-Regular.ttf)
+}
+
+body{
+    font-family: aFont;
+}
+
 .week {
     display: flex; 
     flex: 1 1 auto;
